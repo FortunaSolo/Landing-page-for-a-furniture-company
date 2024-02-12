@@ -96,8 +96,10 @@ main {
   background: linear-gradient(
     transparent 0%,
     transparent 30%,
-    rgb(144, 144, 5) 30%,
-    rgb(144, 144, 5) 100%
+    rgb(229, 129, 202) 30%,
+    rgb(190, 105, 163),
+    rgb(180, 99, 143),
+    rgb(221, 91, 91)
   );
   width: 300px;
   height: 350px;
